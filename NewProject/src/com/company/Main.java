@@ -7,15 +7,16 @@ public class Main {
 
 
     public static void main(String[] args) {
-
-        Person me = new Person(String name)
-        System.out.println(me );
+                Person me = new Person("Ray", 17, 6);
+                System.out.println("hello " + me);
+            }
+        }
 
       //  System.out.println("Hello Java");
      //   System.out.println("Hi");
        // System.out.print("Hey");
 
-        Scanner input = new Scanner(System.in);
+     //   Scanner input = new Scanner(System.in);
 
       //  System.out.println("What is your name?");
        // String firstName = input.nextLine();
@@ -47,5 +48,7 @@ public class Main {
     //    System.out.printf("\n Sincerely, %s \n", yourName);
 
 
-    }
-}
+
+
+
+
